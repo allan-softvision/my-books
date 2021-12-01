@@ -1,0 +1,15 @@
+obj/my-books.csproj.nuget.dgspec.json
+obj/my-books.csproj.nuget.g.props
+obj/my-books.csproj.nuget.g.targets
+obj/project.assets.json
+obj/project.nuget.cache
+obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+obj/Debug/net6.0/my-books.AssemblyInfo.cs
+obj/Debug/net6.0/my-books.AssemblyInfoInputs.cache
+obj/Debug/net6.0/my-books.assets.cache
+obj/Debug/net6.0/my-books.csproj.AssemblyReference.cache
+obj/Debug/net6.0/my-books.GeneratedMSBuildEditorConfig.editorconfig
+obj/Debug/net6.0/my-books.GlobalUsings.g.cs
+obj/Debug/net6.0/project.razor.json
+.vscode/launch.json
+.vscode/tasks.json
